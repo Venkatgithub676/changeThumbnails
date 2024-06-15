@@ -1,0 +1,15 @@
+/* Write your code here. */
+.thumbnail-li-container {
+  margin-right: 20px;
+}
+.img-btn {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+.thumbnail-imgs {
+}
+
+.img-blur {
+  opacity: 0.5;
+}
